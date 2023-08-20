@@ -15,6 +15,7 @@ Manual Tests, Exploratory Tests, API Tests, Load and performance tests, UI tests
 **Quality Assurance:** Java(RestAssured, Selenium), RobotFramework, Javascript(Mocha, Supertest, Puppeteer, Nightmare)
 
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rossyfranca?tab=skills)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RossyFranca&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RossyFranca&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
