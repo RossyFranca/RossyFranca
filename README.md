@@ -11,6 +11,7 @@ Manual Tests, Exploratory Tests, API Tests, Load and performance tests, UI tests
 
 ## Stack utilizada
 **Back-end:** Java, Spring 
+**Front-end:** Angular 
 
 **Quality Assurance:** Java(RestAssured, Selenium), RobotFramework, Javascript(Mocha, Supertest, Puppeteer, Nightmare)
 
