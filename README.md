@@ -10,7 +10,7 @@ I have been working with Software Development for 5 years, finishing a bachelor'
 Manual Tests, Exploratory Tests, API Tests, Load and performance tests, UI tests, Smoke tests, API backend development, Scrum, Safe, Lean Inception.
 
 ## Stack utilizada
-**Back-end:** Java, Spring 
+**Back-end:** Java, Spring /
 **Front-end:** Angular 
 
 **Quality Assurance:** Java(RestAssured, Selenium), RobotFramework, Javascript(Mocha, Supertest, Puppeteer, Nightmare)
